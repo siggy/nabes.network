@@ -1,0 +1,30 @@
+{
+  "cities": ["Berlin", "San Francisco"],
+  "neighborhoods": [
+    {
+      "Berlin": "Mitte",
+      "San Francisco": "SoMa",
+      "Description": "These districts have a mix of commercial and residential properties, and are known for their museums and cultural institutions."
+    },
+    {
+      "Berlin": "Kreuzberg",
+      "San Francisco": "The Mission",
+      "Description": "Diverse neighborhoods known for their vibrant street art, unique eateries, and dynamic nightlife."
+    },
+    {
+      "Berlin": "Prenzlauer Berg",
+      "San Francisco": "Noe Valley",
+      "Description": "These neighborhoods offer a relaxed pace of life, tree-lined streets, and are known for their organic food markets and family-friendly atmosphere."
+    },
+    {
+      "Berlin": "Friedrichshain",
+      "San Francisco": "Dogpatch",
+      "Description": "These areas were once industrial and are now known for their creative scenes, with many startups, artists, and musicians."
+    },
+    {
+      "Berlin": "Zehlendorf",
+      "San Francisco": "Pacific Heights",
+      "Description": "Affluent and primarily residential areas known for their grand architecture, high-end boutiques, and well-maintained public parks."
+    }
+  ]
+}

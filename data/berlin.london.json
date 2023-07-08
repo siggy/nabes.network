@@ -1,0 +1,30 @@
+{
+  "cities": ["Berlin", "London"],
+  "neighborhoods": [
+    {
+      "Berlin": "Mitte",
+      "London": "Westminster",
+      "Description": "These central districts are rich in history and landmarks, with a mixture of business and residential properties."
+    },
+    {
+      "Berlin": "Friedrichshain",
+      "London": "Shoreditch",
+      "Description": "Known for their creative scenes, these areas are filled with street art, hipster cafes, and indie boutiques."
+    },
+    {
+      "Berlin": "Charlottenburg",
+      "London": "Kensington",
+      "Description": "Upscale, primarily residential areas with grand architecture, luxury shopping, and cultural institutions."
+    },
+    {
+      "Berlin": "Neukölln",
+      "London": "Brixton",
+      "Description": "Vibrant and multicultural neighborhoods with a strong sense of community and a rich history of immigration."
+    },
+    {
+      "Berlin": "Schöneberg",
+      "London": "Soho",
+      "Description": "Known for their LGBT-friendly atmosphere, these neighborhoods have a long history of counterculture and activism."
+    }
+  ]
+}

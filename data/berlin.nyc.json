@@ -1,0 +1,30 @@
+{
+  "cities": ["Berlin", "New York City"],
+  "neighborhoods": [
+    {
+      "Berlin": "Mitte",
+      "New York City": "Midtown Manhattan",
+      "Description": "Busy central districts, home to many landmarks and commercial hubs."
+    },
+    {
+      "Berlin": "Neukölln",
+      "New York City": "Bushwick",
+      "Description": "Up-and-coming, multicultural neighborhoods with a robust arts scene and vibrant nightlife."
+    },
+    {
+      "Berlin": "Charlottenburg",
+      "New York City": "Upper East Side",
+      "Description": "Well-established, upscale neighborhoods with grand architecture, luxury boutiques, and cultural institutions."
+    },
+    {
+      "Berlin": "Prenzlauer Berg",
+      "New York City": "Park Slope",
+      "Description": "Family-friendly neighborhoods known for their leafy streets, organic markets, and a relaxed pace of life."
+    },
+    {
+      "Berlin": "Wedding",
+      "New York City": "Astoria",
+      "Description": "Multicultural neighborhoods undergoing gentrification, known for their affordable food scenes and growing popularity among younger crowds."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "cities": ["Barcelona", "Berlin"],
+  "neighborhoods": [
+    {
+      "Barcelona": "Eixample",
+      "Berlin": "Mitte",
+      "Description": "These are central neighborhoods known for their historic architecture, museums, and diverse dining scenes."
+    },
+    {
+      "Barcelona": "El Raval",
+      "Berlin": "Kreuzberg",
+      "Description": "Historically working-class areas that have evolved into trendy spots with vibrant nightlife, art scenes, and diverse communities."
+    },
+    {
+      "Barcelona": "Gràcia",
+      "Berlin": "Prenzlauer Berg",
+      "Description": "These neighborhoods offer a relaxed pace of life, tree-lined streets, and are known for their organic food markets and indie retailers."
+    },
+    {
+      "Barcelona": "Poblenou",
+      "Berlin": "Friedrichshain",
+      "Description": "These neighborhoods have a strong industrial past and are now home to many tech companies and creative agencies."
+    },
+    {
+      "Barcelona": "Sarrià-Sant Gervasi",
+      "Berlin": "Charlottenburg",
+      "Description": "These are more affluent neighborhoods with a mix of modern and traditional architecture, and a variety of high-end shops and restaurants."
+    }
+  ]
+}
